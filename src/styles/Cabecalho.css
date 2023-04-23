@@ -1,0 +1,29 @@
+.cabecalho-container{
+    display: flex;
+    width: 50%;
+    margin-right: 20px;
+  
+}
+
+.cabecalho-image{
+    width: 3em;
+    margin-right: 1em;
+    height: 3em;
+}
+
+.cabecalho-image img{
+    height:100%;
+ 
+}
+
+.cabecalho-logo {
+    display: inline-block;
+    padding-top: 6px;
+    font-size: 1.5em;
+    color:#209869;
+}
+
+.cabecalho-logo h3{
+    padding:0;
+     margin:0;
+}
